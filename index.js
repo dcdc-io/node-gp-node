@@ -1,4 +1,4 @@
-require("node-gp")
+const GlobalPlatform = require("node-gp")
 const smartcard = require('smartcard')
 
 const Devices = smartcard.Devices
